@@ -1,2 +1,2 @@
-# pandas-challeng-AHA-HWK
+# Pandas-challenge-AHA-HWK
 Pandas HWK AHA
