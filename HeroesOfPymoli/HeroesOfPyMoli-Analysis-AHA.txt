@@ -1,0 +1,8 @@
+Pandas-Challenge-HeroesofPyMoli-Aaron Adams
+
+Overall there are 780 transactions recorded in this dataset. There are only 576 unqiue players, indicating that the majority of players who have
+made a purchase, only made a single purchase. The vast of the playerbase who made a purchase is male. However, the average purchase price and average
+total amount spent were higher for the female and other/undisclosed groups. This indicates that they are either willing to spend more, or the items that
+appeal to them cost more to begin with. 76.74% of the player base falls into the age 15-29 range, with the most players falling between the ages of
+20 and 24. It makes sense that this age group had the most purchases count. The item "Oathbreaker, Last Hope of the Breaking Storm" was 
+not only the most sold by count, it was also the most profitbale. 
